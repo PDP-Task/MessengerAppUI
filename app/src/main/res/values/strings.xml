@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MessangerApp</string>
+    <string name="chats">Chats</string>
+    <string name="todo">todo</string>
+    <string name="search">Search</string>
+    <string name="android">Android</string>
+    <string name="android_dev">Android developer is the best</string>
+    <string name="android_kotlin">Android Kotlin</string>
+</resources>
